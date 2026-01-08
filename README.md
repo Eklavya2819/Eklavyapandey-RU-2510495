@@ -62,3 +62,7 @@ Loops
 Conditional statements
 Compiler: GCC Compiler
 IDE: VS Code
+
+Output
+
+![WhatsApp Image 2026-01-08 at 12 31 43 PM](https://github.com/user-attachments/assets/5e322467-993f-41a2-bb15-1e5ce8174fde)
